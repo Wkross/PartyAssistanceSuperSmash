@@ -1,0 +1,434 @@
+{
+  "characters": [
+    {
+      "name": "Mario",
+      "image": "mario.png",
+      "appearances": ["SSB", "SSBM", "SSBB", "SSB4", "SSBU"]
+    },
+    {
+      "name": "Donkey Kong",
+      "image": "donkey-kong.png",
+      "appearances": ["SSB", "SSBM", "SSBB", "SSB4", "SSBU"]
+    },
+    {
+      "name": "Link",
+      "image": "link.png",
+      "appearances": ["SSB", "SSBM", "SSBB", "SSB4", "SSBU"]
+    },
+    {
+      "name": "Samus",
+      "image": "samus.png",
+      "appearances": ["SSB", "SSBM", "SSBB", "SSB4", "SSBU"]
+    },
+    {
+      "name": "Dark Samus",
+      "image": "dark-samus.png",
+      "appearances": ["SSBU"]
+    },
+    {
+      "name": "Yoshi",
+      "image": "yoshi.png",
+      "appearances": ["SSB", "SSBM", "SSBB", "SSB4", "SSBU"]
+    },
+    {
+      "name": "Kirby",
+      "image": "kirby.png",
+      "appearances": ["SSB", "SSBM", "SSBB", "SSB4", "SSBU"]
+    },
+    {
+      "name": "Fox",
+      "image": "fox.png",
+      "appearances": ["SSB", "SSBM", "SSBB", "SSB4", "SSBU"]
+    },
+    {
+      "name": "Pikachu",
+      "image": "pikachu.png",
+      "appearances": ["SSB", "SSBM", "SSBB", "SSB4", "SSBU"]
+    },
+    {
+      "name": "Luigi",
+      "image": "luigi.png",
+      "appearances": ["SSB", "SSBM", "SSBB", "SSB4", "SSBU"]
+    },
+    {
+      "name": "Ness",
+      "image": "ness.png",
+      "appearances": ["SSB", "SSBM", "SSBB", "SSB4", "SSBU"]
+    },
+    {
+      "name": "Captain Falcon",
+      "image": "captain-falcon.png",
+      "appearances": ["SSB", "SSBM", "SSBB", "SSB4", "SSBU"]
+    },
+    {
+      "name": "Jigglypuff",
+      "image": "jigglypuff.png",
+      "appearances": ["SSB", "SSBM", "SSBB", "SSB4", "SSBU"]
+    },
+    {
+      "name": "Peach",
+      "image": "peach.png",
+      "appearances": ["SSBM", "SSBB", "SSB4", "SSBU"]
+    },
+    {
+      "name": "Daisy",
+      "image": "daisy.png",
+      "appearances": ["SSBU"]
+    },
+    {
+      "name": "Bowser",
+      "image": "bowser.png",
+      "appearances": ["SSBM", "SSBB", "SSB4", "SSBU"]
+    },
+    {
+      "name": "Ice Climbers",
+      "image": "ice-climbers.png",
+      "appearances": ["SSBM", "SSBB", "SSBU"]
+    },
+    {
+      "name": "Sheik",
+      "image": "sheik.png",
+      "appearances": ["SSBM", "SSBB", "SSB4", "SSBU"]
+    },
+    {
+      "name": "Zelda",
+      "image": "zelda.png",
+      "appearances": ["SSBM", "SSBB", "SSB4", "SSBU"]
+    },
+    {
+      "name": "Dr. Mario",
+      "image": "dr-mario.png",
+      "appearances": ["SSBM", "SSB4", "SSBU"]
+    },
+    {
+      "name": "Pichu",
+      "image": "pichu.png",
+      "appearances": ["SSBM", "SSBU"]
+    },
+    {
+      "name": "Falco",
+      "image": "falco.png",
+      "appearances": ["SSBM", "SSBB", "SSB4", "SSBU"]
+    },
+    {
+      "name": "Marth",
+      "image": "marth.png",
+      "appearances": ["SSBM", "SSBB", "SSB4", "SSBU"]
+    },
+    {
+      "name": "Lucina",
+      "image": "lucina.png",
+      "appearances": ["SSB4", "SSBU"]
+    },
+    {
+      "name": "Young Link",
+      "image": "young-link.png",
+      "appearances": ["SSBM", "SSBU"]
+    },
+    {
+      "name": "Ganondorf",
+      "image": "ganondorf.png",
+      "appearances": ["SSBM", "SSBB", "SSB4", "SSBU"]
+    },
+    {
+      "name": "Mewtwo",
+      "image": "mewtwo.png",
+      "appearances": ["SSBM", "SSB4", "SSBU"]
+    },
+    {
+      "name": "Roy",
+      "image": "roy.png",
+      "appearances": ["SSBM", "SSB4", "SSBU"]
+    },
+    {
+      "name": "Chrom",
+      "image": "chrom.png",
+      "appearances": ["SSBU"]
+    },
+    {
+      "name": "Mr. Game & Watch",
+      "image": "mr-game-and-watch.png",
+      "appearances": ["SSBM", "SSBB", "SSB4", "SSBU"]
+    },
+    {
+      "name": "Meta Knight",
+      "image": "meta-knight.png",
+      "appearances": ["SSBB", "SSB4", "SSBU"]
+    },
+    {
+      "name": "Pit",
+      "image": "pit.png",
+      "appearances": ["SSBB", "SSB4", "SSBU"]
+    },
+    {
+      "name": "Dark Pit",
+      "image": "dark-pit.png",
+      "appearances": ["SSB4", "SSBU"]
+    },
+    {
+      "name": "Zero Suit Samus",
+      "image": "zero-suit-samus.png",
+      "appearances": ["SSBB", "SSB4", "SSBU"]
+    },
+    {
+      "name": "Wario",
+      "image": "wario.png",
+      "appearances": ["SSBB", "SSB4", "SSBU"]
+    },
+    {
+      "name": "Snake",
+      "image": "snake.png",
+      "appearances": ["SSBB", "SSBU"]
+    },
+    {
+      "name": "Ike",
+      "image": "ike.png",
+      "appearances": ["SSBB", "SSB4", "SSBU"]
+    },
+    {
+      "name": "Pokemon Trainer",
+      "image": "pokemon-trainer.png",
+      "appearances": ["SSBB", "SSB4", "SSBU"]
+    },
+    {
+      "name": "Diddy Kong",
+      "image": "diddy-kong.png",
+      "appearances": ["SSBB", "SSB4", "SSBU"]
+    },
+    {
+      "name": "Lucas",
+      "image": "lucas.png",
+      "appearances": ["SSBB", "SSB4", "SSBU"]
+    },
+    {
+      "name": "Sonic",
+      "image": "sonic.png",
+      "appearances": ["SSBB", "SSB4", "SSBU"]
+    },
+    {
+      "name": "King Dedede",
+      "image": "king-dedede.png",
+      "appearances": ["SSBB", "SSB4", "SSBU"]
+    },
+    {
+      "name": "Olimar",
+      "image": "olimar.png",
+      "appearances": ["SSBB", "SSB4", "SSBU"]
+    },
+    {
+      "name": "Lucario",
+      "image": "lucario.png",
+      "appearances": ["SSBB", "SSB4", "SSBU"]
+    },
+    {
+      "name": "R.O.B.",
+      "image": "rob.png",
+      "appearances": ["SSBB", "SSB4", "SSBU"]
+    },
+    {
+      "name": "Toon Link",
+      "image": "toon-link.png",
+      "appearances": ["SSBB", "SSB4", "SSBU"]
+    },
+    {
+      "name": "Wolf",
+      "image": "wolf.png",
+      "appearances": ["SSBB", "SSBU"]
+    },
+    {
+      "name": "Villager",
+      "image": "villager.png",
+      "appearances": ["SSB4", "SSBU"]
+    },
+    {
+      "name": "Mega Man",
+      "image": "mega-man.png",
+      "appearances": ["SSB4", "SSBU"]
+    },
+    {
+      "name": "Wii Fit Trainer",
+      "image": "wii-fit-trainer.png",
+      "appearances": ["SSB4", "SSBU"]
+    },
+    {
+      "name": "Rosalina & Luma",
+      "image": "rosalina.png",
+      "appearances": ["SSB4", "SSBU"]
+    },
+    {
+      "name": "Little Mac",
+      "image": "little-mac.png",
+      "appearances": ["SSB4", "SSBU"]
+    },
+    {
+      "name": "Greninja",
+      "image": "greninja.png",
+      "appearances": ["SSB4", "SSBU"]
+    },
+    {
+      "name": "Mii Brawler",
+      "image": "mii-brawler.png",
+      "appearances": ["SSB4", "SSBU"]
+    },
+    {
+      "name": "Mii Swordfighter",
+      "image": "mii-swordfighter.png",
+      "appearances": ["SSB4", "SSBU"]
+    },
+    {
+      "name": "Mii Gunner",
+      "image": "mii-gunner.png",
+      "appearances": ["SSB4", "SSBU"]
+    },
+    {
+      "name": "Palutena",
+      "image": "palutena.png",
+      "appearances": ["SSB4", "SSBU"]
+    },
+    {
+      "name": "Pac-Man",
+      "image": "pac-man.png",
+      "appearances": ["SSB4", "SSBU"]
+    },
+    {
+      "name": "Robin",
+      "image": "robin.png",
+      "appearances": ["SSB4", "SSBU"]
+    },
+    {
+      "name": "Shulk",
+      "image": "shulk.png",
+      "appearances": ["SSB4", "SSBU"]
+    },
+    {
+      "name": "Bowser JR.",
+      "image": "bowser-jr.png",
+      "appearances": ["SSB4", "SSBU"]
+    },
+    {
+      "name": "Duck Hunt",
+      "image": "duck-hunt.png",
+      "appearances": ["SSB4", "SSBU"]
+    },
+    {
+      "name": "Ryu",
+      "image": "ryu.png",
+      "appearances": ["SSB4", "SSBU"]
+    },
+    {
+      "name": "Ken",
+      "image": "ken.png",
+      "appearances": ["SSBU"]
+    },
+    {
+      "name": "Cloud",
+      "image": "cloud.png",
+      "appearances": ["SSB4", "SSBU"]
+    },
+    {
+      "name": "Corrin",
+      "image": "corrin.png",
+      "appearances": ["SSB4", "SSBU"]
+    },
+    {
+      "name": "Bayonetta",
+      "image": "bayonetta.png",
+      "appearances": ["SSB4", "SSBU"]
+    },
+    { 
+      "name": "Inkling",
+      "image": "inkling.png",
+      "appearances": ["SSBU"]
+    },
+    { 
+      "name": "Ridley",
+      "image": "ridley.png",
+      "appearances": ["SSBU"]
+    },
+    { 
+      "name": "Simon",
+      "image": "simon.png",
+      "appearances": ["SSBU"]
+    },
+    { 
+      "name": "Richter",
+      "image": "richter.png",
+      "appearances": ["SSBU"]
+    },
+    { 
+      "name": "King K. Rool",
+      "image": "king-k-rool.png",
+      "appearances": ["SSBU"]
+    },
+    { 
+      "name": "Isabelle",
+      "image": "isabelle.png",
+      "appearances": ["SSBU"]
+    },
+    { 
+      "name": "Incineroar",
+      "image": "incineroar.png",
+      "appearances": ["SSBU"]
+    },
+    { 
+      "name": "Piranha Plant",
+      "image": "piranha-plant.png",
+      "appearances": ["SSBU"]
+    },
+    { 
+      "name": "Joker",
+      "image": "joker.png",
+      "appearances": ["SSBU"]
+    },
+    { 
+      "name": "Hero",
+      "image": "hero.png",
+      "appearances": ["SSBU"]
+    },
+    { 
+      "name": "Banjo & Kazooie",
+      "image": "banjo-and-kazooie.png",
+      "appearances": ["SSBU"]
+    },
+    { 
+      "name": "Terry",
+      "image": "terry.png",
+      "appearances": ["SSBU"]
+    },
+    { 
+      "name": "Byleth",
+      "image": "byleth.png",
+      "appearances": ["SSBU"]
+    },
+    { 
+      "name": "Min Min",
+      "image": "min-min.png",
+      "appearances": ["SSBU"]
+    },
+    { 
+      "name": "Steve",
+      "image": "steve.png",
+      "appearances": ["SSBU"]
+    },
+    { 
+      "name": "Sephirot",
+      "image": "sephirot.png",
+      "appearances": ["SSBU"]
+    },
+    { 
+      "name": "Pyra / Mythra",
+      "image": "pyra-and-mythra.png",
+      "appearances": ["SSBU"]
+    },
+    { 
+      "name": "Kazuya",
+      "image": "kazuya.png",
+      "appearances": ["SSBU"]
+    },
+    { 
+      "name": "Sora",
+      "image": "sora.png",
+      "appearances": ["SSBU"]
+    }
+  ]
+}
