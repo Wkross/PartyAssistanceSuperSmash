@@ -1,0 +1,27 @@
+{
+  "extends": "ts-config-single-spa",
+  "compilerOptions": {
+    "jsx": "react-jsx",
+    "allowJs": true,
+    "declarationDir": "dist",
+    "skipLibCheck": true,
+    "baseUrl": ".",
+    "paths": {
+      "@/*": [
+        "src/*"
+      ]
+    },
+    "types": [
+      "node",
+      "jest",
+      "@testing-library/jest-dom",
+      "@types/jest"
+    ]
+  },
+  "files": [
+    "src/react-ib-mf-tenants-ui.tsx"
+  ],
+  "include": [
+    "src/**/*"
+  ],
+}
